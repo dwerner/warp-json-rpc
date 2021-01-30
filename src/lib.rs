@@ -39,3 +39,4 @@ mod store;
 pub use req::Request;
 pub use res::{Builder, Error};
 pub use service::service;
+pub use service::JsonRpcService;
